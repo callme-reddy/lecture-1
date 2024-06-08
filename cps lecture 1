@@ -1,0 +1,9 @@
+#include<iostream> //header
+using namespace std;
+
+int main()
+{
+    cout<<"Hello\tuworld"<<endl; //prints Hello world
+    
+    return 0;
+}
